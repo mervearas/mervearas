@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Merve
 ####  Full Stack Developer
-![ Full Stack Developer](https://i.pinimg.com/564x/4a/2f/41/4a2f41a56486cba79e38eef362da1cb3.jpg)
+![ Full Stack Developer](https://i.pinimg.com/564x/e9/03/f2/e903f2257f8640637c5112512cc15f22.jpg)
 
 
 Skills: REACT / JS / HTML / CSS / MySQL / Mongo
